@@ -1,4 +1,4 @@
-This is our first git commit
+This is our updated git commit
 
 
 this is our second-commit;
